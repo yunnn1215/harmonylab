@@ -87,16 +87,8 @@
 
 > 上述記錄描述此次實際製作過程；發布後可再補上你自己實測的截圖或觀察，呈現更多與 AI 討論後修正的證據。
 
-## 八、GitHub Pages 公開發布
 
-1. 登入 GitHub，建立 **Public** repository，例如 `chord-canvas`。
-2. 在 repository 點 **Add file → Upload files**，上傳 `index.html`（必須位於根目錄），再按 **Commit changes**。
-3. 開啟 **Settings → Pages**，在 **Build and deployment** 選擇 **Deploy from a branch**。
-4. 將 Branch 設為 `main`、資料夾設為 `/(root)`，按 **Save**。
-5. 等待部署完成，GitHub Pages 網址通常為 `https://你的GitHub帳號.github.io/chord-canvas/`（請以 GitHub 顯示的實際網址為準）。
-6. 用公開網址實際測試音效、和弦編輯、重新整理後的設定，以及複製配方功能。
-
-## 九、作業繳交資料
+## 八、作業繳交資料
 
 - **作品名稱：** Chord Canvas｜和弦情緒實驗室
 - **GitHub Repository：** `（部署後填入）`
